@@ -1,4 +1,4 @@
-# Capstone PaKe Dataset
+# Capstone PAKE Dataset
 This dataset contains 1.141 car pictures with 50 brand of cars. More details, you can simply download mobil.zip or clone this repository. The dataset size is 88.9 MB.
 
 # How To Download/Clone
